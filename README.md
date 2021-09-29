@@ -9,6 +9,6 @@ Codes.R has seperate blocks for each analysis.
 
 The analyses mainly use functions in R package "ordinalNet" for ordinal probit regression.
 
-Custom R function 'autoord' and its related functions modify functions in "orginalNet" to correct for autocorrelation in ordinal probit regression.
+Custom R function 'autoord' and its related functions modify functions in "ordinalNet" to correct for autocorrelation in ordinal probit regression.
 
 Details of these functions are in Codes.R.
