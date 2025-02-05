@@ -12,3 +12,7 @@ The analyses mainly use functions in R package "ordinalNet" for ordinal probit r
 Custom R function 'autoord' and its related functions modify functions in "ordinalNet" to correct for autocorrelation in ordinal probit regression.
 
 Details of these functions are in Codes.R.
+
+
+Note:
+Since publishing this code, the authors have been made aware of an error in Dow (2008) (see this preprint by Alexander Koplenig for details https://osf.io/preprints/osf/xbu2k_v1). Reanalysis using an alternative method (semiparametric eigenvector spatial fltering) suggests that this issue does not have any substantive impact on the conclusions of the study.
